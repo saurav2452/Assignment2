@@ -1,0 +1,258 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+/* Bangladesh */
+.bd h2 {
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+    background-color: rgb(231, 205, 57);
+    width: 300px;
+    margin: 20px auto 0px;
+}
+.bdbox {
+    width: 600px;
+    height: 360px;
+    background-color: green;
+    margin: 20px auto 0px;
+    overflow: hidden;
+    
+}
+.bdcircle {
+    width: 250px;
+    height: 250px;
+    background-color: red;
+    border-radius: 50%;
+    margin: 54px auto 0px;
+}
+/* Indian flag */
+.india h2 {
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+    background-color: rgb(231, 205, 57);
+    width: 300px;
+    margin: 20px auto 0px;
+}
+.flag2 {
+    width: 600px;
+  height: 120px;
+  background-color: white;
+  margin: 20px auto;
+  border-top: 120px solid #FF9933;
+  border-bottom: 120px solid green;
+  text-align: center;
+}
+.flag2 img {
+    width: 120px;
+}
+/* Canada flag */
+.canada h2 {
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+    background-color: rgb(231, 205, 57);
+    width: 300px;
+    margin: 20px auto 0px;
+}
+
+.flag3 {
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    margin: 20px auto;
+    border-left: 150px solid #FF0000;
+    border-right: 150px solid #FF0000;
+    text-align: center;
+}
+.flag3 img {
+    width: 300px;
+}
+/* Argentina flag */
+.Argentina h2 {
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+    background-color: rgb(231, 205, 57);
+    width: 300px;
+    margin: 20px auto 0px;
+}
+.flag4 {
+    width: 600px;
+  height: 120px;
+  background-color: white;
+  margin: 20px auto;
+  border-top: 120px solid skyblue;
+  border-bottom: 120px solid skyblue;
+  text-align: center;
+}
+.flag4 img {
+    width: 120px;
+}
+/* Brazil flag */
+.Brazil h2 {
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+    background-color: rgb(231, 205, 57);
+    width: 300px;
+    margin: 20px auto 0px;
+}
+.box {
+    width: 600px;
+    height: 330px;
+    background-color: green;
+    overflow: hidden;
+    margin: 20px auto 0px;
+}
+.box .box2 {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    margin: 65px auto 0px;
+   transform: rotate(45deg);
+   overflow: hidden;
+}
+.circale {
+    width: 140px;
+    height: 140px;
+    background-color: #002776;
+    border-radius: 50%;
+    margin: 29px auto 0px;
+}
+
+
+
+/* Japan flag */
+.CA h2 {
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+    background-color: rgb(231, 205, 57);
+    width: 300px;
+    margin: 20px auto 0px;
+}
+.jabox {
+    width: 600px;
+    height: 350px;
+    background-color: white;
+    margin: 20px auto 0px;
+    border: 1px solid black;
+    overflow: hidden;
+}
+.jacircle {
+    width: 250px;
+    height: 250px;
+    background-color: red;
+    border-radius: 50%;
+    margin: 54px auto 0px;
+}
+/* Belgium flag */
+.belgium h2 {
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+    background-color: rgb(231, 205, 57);
+    width: 300px;
+    margin: 20px auto 0px;
+}
+.flag5 {
+    width: 200px;
+    height: 300px;
+    background-color: #FAE042;
+    margin: 20px auto;
+    border-left: 200px solid #000000;
+    border-right: 200px solid #ED2939;
+}
+/* Yemen flag */
+.Yemen h2 {
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+    background-color: rgb(231, 205, 57);
+    width: 300px;
+    margin: 20px auto 0px;
+}
+.flag6 {
+    width: 600px;
+    height: 120px;
+    background-color: white;
+    margin: 20px auto;
+    border-top: 120px solid #CE1127;
+    border-bottom: 120px solid black;
+}
+/* Romania flag */
+.Romania h2 {
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+    background-color: rgb(231, 205, 57);
+    width: 300px;
+    margin: 20px auto 0px;
+}
+.flag7 {
+    width: 200px;
+    height: 300px;
+    background-color: #FAE042;
+    margin: 20px auto;
+    border-left: 200px solid #012B7F;
+    border-right: 200px solid #ED2939;
+}
+/* Germany flag */
+.Germany h2 {
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+    background-color: rgb(231, 205, 57);
+    width: 300px;
+    margin: 20px auto 0px;
+}
+.flag8 {
+    width: 600px;
+    height: 120px;
+    background-color: #DE0000;
+    margin: 20px auto;
+    border-top: 120px solid #000000;
+    border-bottom: 120px solid #FECE00;
+}
+/* Italy flag */
+.Italy h2 {
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+    background-color: rgb(231, 205, 57);
+    width: 300px;
+    margin: 20px auto 0px;
+}
+.flag9 {
+    width: 200px;
+    height: 300px;
+    background-color: #FFFFFF;
+    margin: 20px auto;
+    border-left: 200px solid #009247;
+    border-right: 200px solid #CF2B36;
+}
+/* flag design end */
+.end h2 {
+    text-align: center;
+    color: rgb(104, 9, 9);
+    font-size: 40px;
+    background-color: rgb(122, 78, 226);
+    width: 300px;
+    margin: 20px auto 0px;
+}
+.end p {
+    text-align: center;
+    color: rgb(158, 10, 10);
+    font-size: 40px;
+    background-color: rgb(122, 78, 226);
+    width: 300px;
+    margin: 0px auto 0px;
+
+}
+/* project end */
+
+
+   
+
